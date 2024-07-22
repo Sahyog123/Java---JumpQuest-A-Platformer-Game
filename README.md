@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c99f30ff-8834-4a18-9716-a9939d49413c)# JumpQuest
+# JumpQuest
 
 JumpQuest is a 2D platformer game built in Java with mechanics inspired by classic platformers. In JumpQuest, players navigate through levels, collect coins, and defeat enemies to progress to the next stage.
 
