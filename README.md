@@ -1,6 +1,7 @@
 # JumpQuest
 
-JumpQuest is a 2D platformer game built in Java with mechanics inspired by classic platformers. In JumpQuest, players navigate through levels, collect coins, and defeat enemies to progress to the next stage.
+JumpQuest is a 2D platformer game built in Java with mechanics inspired by classic platformers. 
+In JumpQuest, players navigate through levels, collect coins, and defeat enemies to progress to the next stage.
 
 ## Features
 
@@ -39,3 +40,7 @@ JumpQuest is a 2D platformer game built in Java with mechanics inspired by class
 
 ## Technologies Used
 * Java
+
+## Contributing
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
+I can also be contacted at sahyogshetty12@gmail.com
