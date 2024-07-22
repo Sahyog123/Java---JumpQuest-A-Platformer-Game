@@ -43,4 +43,5 @@ In JumpQuest, players navigate through levels, collect coins, and defeat enemies
 
 ## Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
+<br>
 I can also be contacted at sahyogshetty12@gmail.com
